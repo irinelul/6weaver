@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Irinel.
-- 👀 I’m interested in anything related to data analysis, such as pandas,r,SQL.
+- 👀 I’m interested in anything related to data science, such as pandas,R,SQL.
 - 🌱 I’m currently learning the above mentioned.
 - 💞️ I’m looking to collaborate on any interesting project
 - 📫 How to reach me irinel.grigoroiu@gmail.com
